@@ -1,0 +1,3 @@
+# Relato bruto fictício — caso de exemplo
+
+Em 12/09/2026, a empresa fictícia Oficina Horizonte Ltda. encomendou à fictícia Papelaria Aurora ME 300 cadernos personalizados para evento interno, por R$ 1.800,00. A fornecedora afirma que entregou todos os cadernos em 18/09/2026 e emitiu a nota fiscal fictícia nº 0042. O combinado, segundo as partes, era pagamento por transferência até 30/09/2026. Até 10/10/2026, a fornecedora diz não ter identificado o pagamento. Enviou uma mensagem de cobrança em 05/10/2026 e não recebeu resposta. Quer uma notificação extrajudicial para solicitar pagamento em cinco dias úteis do recebimento. Não informou dados bancários, endereço das partes nem representante legal. Todos os nomes e fatos são inventados para fins de exercício.
